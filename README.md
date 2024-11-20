@@ -1,2 +1,2 @@
 # imersaoBackend
-Imersão back end da Alura com Google Gemini
+Imersao back end da Alura com Google Gemini
