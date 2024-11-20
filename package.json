@@ -23,10 +23,11 @@
   },
   "contributors": [],
   "scripts": {
-    "start": "node --watch server.js",
+    "start": "node --watch --env-file=.env server.js",
     "test": "echo 'it works!'"
   },
   "dependencies": {
-    "express": "4.21.1"
+    "express": "4.21.1",
+    "mongodb": "6.10.0"
   }
 }
